@@ -1,0 +1,9 @@
+Pillow
+keras
+matplotlib
+numpy
+opencv-python
+pandas
+requests
+scikit-learn
+tensorflow
